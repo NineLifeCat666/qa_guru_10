@@ -1,2 +1,3 @@
 # qa_guru_10
-owner library
+Styding owner - https://github.com/lviggiano/owner
+
